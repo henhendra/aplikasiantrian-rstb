@@ -1,0 +1,24 @@
+{
+  "name": "sabar3",
+  "version": "1.0.0",
+  "description": "RSUD TORA BELO",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "Tegar Santosa",
+  "license": "ISC",
+  "dependencies": {
+    "@mysql/xdevapi": "8.0.17",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^1.19.4",
+    "npm": "^6.12.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {}
+}

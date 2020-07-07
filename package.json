@@ -17,7 +17,7 @@
     "express-handlebars": "^3.1.0",
     "mysql": "github:mysqljs/mysql",
     "nodemon": "^1.19.4",
-    "npm": "^6.12.0",
+    "npm": "^6.14.6",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {}

@@ -18,7 +18,7 @@
     "mysql": "github:mysqljs/mysql",
     "nodemon": "^1.19.4",
     "npm": "^6.12.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {}
 }
